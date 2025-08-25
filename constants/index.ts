@@ -1,187 +1,187 @@
 export const resumes: Resume[] = [
-    {
-      id: "1",
-      companyName: "Google",
-      jobTitle: "Frontend Developer",
-      imagePath: "/images/resume_01.png",
-      resumePath: "/resumes/resume-1.pdf",
-      feedback: {
-        overallScore: 85,
-        ATS: {
-          score: 90,
-          tips: [],
-        },
-        toneAndStyle: {
-          score: 90,
-          tips: [],
-        },
-        content: {
-          score: 90,
-          tips: [],
-        },
-        structure: {
-          score: 90,
-          tips: [],
-        },
-        skills: {
-          score: 90,
-          tips: [],
-        },
+  {
+    id: "1",
+    companyName: "Google",
+    jobTitle: "Frontend Developer",
+    imagePath: "/images/resume_01.png",
+    resumePath: "/resumes/resume-1.pdf",
+    feedback: {
+      overallScore: 85,
+      ATS: {
+        score: 90,
+        tips: [],
+      },
+      toneAndStyle: {
+        score: 90,
+        tips: [],
+      },
+      content: {
+        score: 90,
+        tips: [],
+      },
+      structure: {
+        score: 90,
+        tips: [],
+      },
+      skills: {
+        score: 90,
+        tips: [],
       },
     },
-    {
-      id: "2",
-      companyName: "Microsoft",
-      jobTitle: "Cloud Engineer",
-      imagePath: "/images/resume_02.png",
-      resumePath: "/resumes/resume-2.pdf",
-      feedback: {
-        overallScore: 55,
-        ATS: {
-          score: 90,
-          tips: [],
-        },
-        toneAndStyle: {
-          score: 90,
-          tips: [],
-        },
-        content: {
-          score: 90,
-          tips: [],
-        },
-        structure: {
-          score: 90,
-          tips: [],
-        },
-        skills: {
-          score: 90,
-          tips: [],
-        },
+  },
+  {
+    id: "2",
+    companyName: "Microsoft",
+    jobTitle: "Cloud Engineer",
+    imagePath: "/images/resume_02.png",
+    resumePath: "/resumes/resume-2.pdf",
+    feedback: {
+      overallScore: 55,
+      ATS: {
+        score: 90,
+        tips: [],
+      },
+      toneAndStyle: {
+        score: 90,
+        tips: [],
+      },
+      content: {
+        score: 90,
+        tips: [],
+      },
+      structure: {
+        score: 90,
+        tips: [],
+      },
+      skills: {
+        score: 90,
+        tips: [],
       },
     },
-    {
-      id: "3",
-      companyName: "Apple",
-      jobTitle: "iOS Developer",
-      imagePath: "/images/resume_03.png",
-      resumePath: "/resumes/resume-3.pdf",
-      feedback: {
-        overallScore: 75,
-        ATS: {
-          score: 90,
-          tips: [],
-        },
-        toneAndStyle: {
-          score: 90,
-          tips: [],
-        },
-        content: {
-          score: 90,
-          tips: [],
-        },
-        structure: {
-          score: 90,
-          tips: [],
-        },
-        skills: {
-          score: 90,
-          tips: [],
-        },
+  },
+  {
+    id: "3",
+    companyName: "Apple",
+    jobTitle: "iOS Developer",
+    imagePath: "/images/resume_03.png",
+    resumePath: "/resumes/resume-3.pdf",
+    feedback: {
+      overallScore: 75,
+      ATS: {
+        score: 90,
+        tips: [],
+      },
+      toneAndStyle: {
+        score: 90,
+        tips: [],
+      },
+      content: {
+        score: 90,
+        tips: [],
+      },
+      structure: {
+        score: 90,
+        tips: [],
+      },
+      skills: {
+        score: 90,
+        tips: [],
       },
     },
-    {
-      id: "4",
-      companyName: "Google",
-      jobTitle: "Frontend Developer",
-      imagePath: "/images/resume_01.png",
-      resumePath: "/resumes/resume-1.pdf",
-      feedback: {
-        overallScore: 85,
-        ATS: {
-          score: 90,
-          tips: [],
-        },
-        toneAndStyle: {
-          score: 90,
-          tips: [],
-        },
-        content: {
-          score: 90,
-          tips: [],
-        },
-        structure: {
-          score: 90,
-          tips: [],
-        },
-        skills: {
-          score: 90,
-          tips: [],
-        },
+  },
+  {
+    id: "4",
+    companyName: "Google",
+    jobTitle: "Frontend Developer",
+    imagePath: "/images/resume_01.png",
+    resumePath: "/resumes/resume-1.pdf",
+    feedback: {
+      overallScore: 85,
+      ATS: {
+        score: 90,
+        tips: [],
+      },
+      toneAndStyle: {
+        score: 90,
+        tips: [],
+      },
+      content: {
+        score: 90,
+        tips: [],
+      },
+      structure: {
+        score: 90,
+        tips: [],
+      },
+      skills: {
+        score: 90,
+        tips: [],
       },
     },
-    {
-      id: "5",
-      companyName: "Microsoft",
-      jobTitle: "Cloud Engineer",
-      imagePath: "/images/resume_02.png",
-      resumePath: "/resumes/resume-2.pdf",
-      feedback: {
-        overallScore: 55,
-        ATS: {
-          score: 90,
-          tips: [],
-        },
-        toneAndStyle: {
-          score: 90,
-          tips: [],
-        },
-        content: {
-          score: 90,
-          tips: [],
-        },
-        structure: {
-          score: 90,
-          tips: [],
-        },
-        skills: {
-          score: 90,
-          tips: [],
-        },
+  },
+  {
+    id: "5",
+    companyName: "Microsoft",
+    jobTitle: "Cloud Engineer",
+    imagePath: "/images/resume_02.png",
+    resumePath: "/resumes/resume-2.pdf",
+    feedback: {
+      overallScore: 55,
+      ATS: {
+        score: 90,
+        tips: [],
+      },
+      toneAndStyle: {
+        score: 90,
+        tips: [],
+      },
+      content: {
+        score: 90,
+        tips: [],
+      },
+      structure: {
+        score: 90,
+        tips: [],
+      },
+      skills: {
+        score: 90,
+        tips: [],
       },
     },
-    {
-      id: "6",
-      companyName: "Apple",
-      jobTitle: "iOS Developer",
-      imagePath: "/images/resume_03.png",
-      resumePath: "/resumes/resume-3.pdf",
-      feedback: {
-        overallScore: 75,
-        ATS: {
-          score: 90,
-          tips: [],
-        },
-        toneAndStyle: {
-          score: 90,
-          tips: [],
-        },
-        content: {
-          score: 90,
-          tips: [],
-        },
-        structure: {
-          score: 90,
-          tips: [],
-        },
-        skills: {
-          score: 90,
-          tips: [],
-        },
+  },
+  {
+    id: "6",
+    companyName: "Apple",
+    jobTitle: "iOS Developer",
+    imagePath: "/images/resume_03.png",
+    resumePath: "/resumes/resume-3.pdf",
+    feedback: {
+      overallScore: 75,
+      ATS: {
+        score: 90,
+        tips: [],
+      },
+      toneAndStyle: {
+        score: 90,
+        tips: [],
+      },
+      content: {
+        score: 90,
+        tips: [],
+      },
+      structure: {
+        score: 90,
+        tips: [],
+      },
+      skills: {
+        score: 90,
+        tips: [],
       },
     },
-  ];
-  
-  export const AIResponseFormat = `
+  },
+];
+
+export const AIResponseFormat = `
         interface Feedback {
         overallScore: number; //max 100
         ATS: {
@@ -224,17 +224,17 @@ export const resumes: Resume[] = [
           }[]; //give 3-4 tips
         };
       }`;
-  
-  export const prepareInstructions = ({
-    jobTitle,
-    jobDescription,
-    AIResponseFormat,
-  }: {
-    jobTitle: string;
-    jobDescription: string;
-    AIResponseFormat: string;
-  }) =>
-    `You are an expert in ATS (Applicant Tracking System) and resume analysis.
+
+export const prepareInstructions = ({
+  jobTitle,
+  jobDescription,
+  AIResponseFormat,
+}: {
+  jobTitle: string;
+  jobDescription: string;
+  AIResponseFormat?: string;
+}) =>
+  `You are an expert in ATS (Applicant Tracking System) and resume analysis.
     Please analyze and rate this resume and suggest how to improve it.
     The rating can be low if the resume is bad.
     Be thorough and detailed. Don't be afraid to point out any mistakes or areas for improvement.
