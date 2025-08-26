@@ -5,7 +5,7 @@ import { usePuterStore } from "~/lib/puter"
 export const meta = () => ([
     {
         title: 'Resumind | Auth',
-        name: 'description', content: 'Log intot your account'
+        name: 'description', content: 'Log into your account'
     }
 ])
 

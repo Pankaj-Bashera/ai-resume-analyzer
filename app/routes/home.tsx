@@ -22,6 +22,7 @@ export default function Home() {
       navigate('/auth?next=/');
     }
   }, [auth.isAuthenticated])
+  
   return (
     <main className="bg-[url('/images/bg-main.svg')] bg-cover">
 
