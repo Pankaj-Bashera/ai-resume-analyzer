@@ -27,10 +27,6 @@ An **AI-powered web app** that analyzes your resume against a job description an
 3. Backend (Puter.js) analyzes and compares the content.  
 4. Get an **ATS Score** + **detailed tips** (skills, structure, tone, content).  
 
----
-
-## 📸 Screenshots  
-*(Add screenshots of upload page, score result, and feedback tips here)*  
 
 ---
 
