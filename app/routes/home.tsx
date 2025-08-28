@@ -56,7 +56,7 @@ export default function Home() {
           <h1>
             Track Your Applications & Resume Ratings
           </h1>
-          {!loadingResumes && resumes?.lemgth === 0 ? (
+          {!loadingResumes && resumes?.length === 0 ? (
             <h2>No resumes found. Upload your first resume to get feedback</h2>
           ) : (
             <h2>
